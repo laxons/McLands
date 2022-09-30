@@ -6,17 +6,34 @@ a:link
 {
 	
 	/*po nieodwiedzony*/
-	color:red
+	color: red
+	
+	
 }
 
 a:visited
 {
 	/*odwiedzony*/
 	color: red
+
 }
 a:hover
 {
-	color:aqua
+	color: aqua
+	
+   
+}
 	
 	/*po najechaniu*/
+
+
+h1
+{
+	
+	font-size: 100px;
+}
+
+a {
+   text-decoration: none;
+   color: red;
 }
