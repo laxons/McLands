@@ -1,0 +1,22 @@
+
+
+
+/*edytowanie linków*/
+a:link
+{
+	
+	/*po nieodwiedzony*/
+	color:red
+}
+
+a:visited
+{
+	/*odwiedzony*/
+	color: red
+}
+a:hover
+{
+	color:aqua
+	
+	/*po najechaniu*/
+}
